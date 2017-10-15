@@ -1,1 +1,1 @@
-# ltp-html-specialist
+# Emmanuel's HTML Specialist Repository
